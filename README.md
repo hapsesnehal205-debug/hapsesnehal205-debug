@@ -1,6 +1,12 @@
-# 💫 About Me:
-About Me 💚<br><br>🎓 I'm currently a Computer Engineering student.<br><br>💻 I'm interested in programming, web development, and software engineering.<br><br>🌱 I'm currently learning new technologies and improving my coding skills.<br><br>🚀 I'm working on building my technical knowledge through projects and practice.<br><br>🤝 I'm looking to collaborate on student projects and beginner-friendly open-source projects.<br><br>💬 Ask me about my learning journey in Computer Engineering.<br><br>⚡ Fun fact: Every day is a new opportunity to learn something new!
 
+💻✨ Computer Engineering Student | Future Tech Professional 🚀
+🌸 Passionate about technology, coding & innovation.
+🛠️ Tech Skills: C | C++ | Java | Python | HTML | CSS | JavaScript | SQL
+
+🌱 Always learning, exploring new technologies & turning ideas into reality
+🎯 Dream big. Learn continuously. Build creatively.
+🤝 Open to internships, collaboration & exciting opportunities.
+✨ Learning today, leading tomorrow! 💙
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snehal-hapse-603815363?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hapsesnehal205@gamil.com) 
